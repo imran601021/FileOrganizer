@@ -28,4 +28,6 @@ jobs:
     # Run your Python script (as a basic test)
     - name: Run File Organizer
       run: |
-        python main.py
+        mkdir -p test_folder
+        echo "sample.txt" > test_folder/sample.txt
+        python main.py test_folder

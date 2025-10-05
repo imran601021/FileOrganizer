@@ -36,5 +36,8 @@ def organize(folder_path):
             print(f"Moved: {file} -> {category}/")
 
 if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        folder_path = sys.argv[1]
+else:
     folder_path = input("Enter the path of the folder to organize: ").strip()
     organize(folder_path)
