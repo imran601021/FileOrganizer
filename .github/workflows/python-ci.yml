@@ -32,7 +32,7 @@ jobs:
         echo "sample.txt" > test_folder/sample.txt
         python main.py test_folder
 
-    - name: Run Tests
+    - name: Run Test
       run: |
         pip install pytest
         pytest test/
