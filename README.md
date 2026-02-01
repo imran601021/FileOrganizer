@@ -40,3 +40,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/imran601021/FileOrganizer.git
 cd FileOrganizer
+python main.py
