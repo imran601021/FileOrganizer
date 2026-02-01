@@ -35,6 +35,13 @@ This project is ideal for keeping directories clean and improving file managemen
 
 ## Installation
 
+
+### Prerequisites
+- Python 3.8 or higher
+- Git
+
+> Note: Installation of Python and Git may vary depending on the operating system.
+
 Clone the repository:
 
 ```bash
