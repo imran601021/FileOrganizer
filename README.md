@@ -45,7 +45,7 @@ This project is ideal for keeping directories clean and improving file managemen
 
 Clone the repository:
 
-git2.png
+
 
 ```bash
 git clone https://github.com/imran601021/FileOrganizer.git
