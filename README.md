@@ -13,6 +13,8 @@ Images, Videos, and more.
 
 This project is ideal for keeping directories clean and improving file management efficiency.
 
+https://github.com/imran601021/FileOrganizer/blob/main/git2.png?raw=true
+
 ---
 
 ## Features
